@@ -1,0 +1,19 @@
+{
+"title": "here we have some nice pics",
+	"pics": [
+	{
+		"name": "low poly landscape",
+		"imgpath": "pics/low_poly_lanscape.png"
+	},
+	{
+		"name": "low poly industry",
+		"imgpath": "pics/low_poly_industry"
+	},
+	{
+		"name": "low poly ancient",
+		"imgpath": "pics/low_poly_ancient.png"
+
+	}
+	]
+}
+
